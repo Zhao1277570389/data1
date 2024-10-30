@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2 (138).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\2 (138).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow-stem-borer-larva</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>84</ymin>
+			<xmax>305</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

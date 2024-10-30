@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3 (209).JPG</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\3 (209).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>105</ymin>
+			<xmax>147</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
