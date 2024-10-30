@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2 (169).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\2 (169).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2243</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>565</ymin>
+			<xmax>2243</xmax>
+			<ymax>2160</ymax>
+		</bndbox>
+	</object>
+</annotation>
