@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1 (572).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\1 (572).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>814</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>84</ymin>
+			<xmax>650</xmax>
+			<ymax>1740</ymax>
+		</bndbox>
+	</object>
+</annotation>
