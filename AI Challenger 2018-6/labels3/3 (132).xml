@@ -1,0 +1,62 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3 (132).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\3 (132).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1470</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>45</ymin>
+			<xmax>618</xmax>
+			<ymax>1237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>1460</ymin>
+			<xmax>399</xmax>
+			<ymax>1776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>39</ymin>
+			<xmax>1312</xmax>
+			<ymax>1171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>1373</ymin>
+			<xmax>968</xmax>
+			<ymax>1832</ymax>
+		</bndbox>
+	</object>
+</annotation>
