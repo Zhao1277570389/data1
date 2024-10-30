@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>4 (211).JPG</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\4 (211).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>159</ymin>
+			<xmax>250</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
