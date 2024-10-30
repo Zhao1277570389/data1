@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>5 (205).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\5 (205).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wheat Red Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>290</ymin>
+			<xmax>1065</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Wheat Red Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1007</xmin>
+			<ymin>1365</ymin>
+			<xmax>1396</xmax>
+			<ymax>1695</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>6 (21).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\6 (21).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wheat Loose Smut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>53</ymin>
+			<xmax>483</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>
